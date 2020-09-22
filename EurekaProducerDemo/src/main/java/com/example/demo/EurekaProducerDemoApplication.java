@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 public class EurekaProducerDemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Main Class Testingggg");
+		System.out.println("Main Class here");
 		SpringApplication.run(EurekaProducerDemoApplication.class, args);
 	}
 
